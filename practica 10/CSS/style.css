@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: white;
+}
+footer{
+    background-color: red;
+    text-align: center;
+    justify-content: center; 
+}
+article{
+    background-color: aquamarine;
+}
+
